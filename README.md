@@ -1,4 +1,4 @@
-# aviationdata
+# Aviationdata
 ## Overview
 
 #### This report provides an analysis of aircraft damage data to identify trends and patterns in aviation incidents. The analysis aims to answer key business questions and provide insights to stakeholders in the aviation industry.
