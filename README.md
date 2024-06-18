@@ -18,7 +18,8 @@
 #### What are the most common types of aircraft damage?
 #### How do different engine types affect the severity of damage?
 #### What are the trends in aircraft damage over time?
-#### Data Understanding and Analysis
+
+## Data Understanding and Analysis
 
 ## Source of Data:
 #### The data was obtained from a dataset of aircraft damage incidents.
@@ -27,15 +28,15 @@
 
 ## Visualizations:
 
-## Visualization 1: Event Date vs. Total Fatal Injuries (1948-2022)
+#### Visualization 1: Event Date vs. Total Fatal Injuries (1948-2022)
 
 #### This graph shows the trend of total fatal injuries in aircraft damage incidents over time. The graph is divided into three sections, each representing a different time period.
 
-## Visualization 2: Event Date vs. Total Fatal Injuries (broken down by time period)
+#### Visualization 2: Event Date vs. Total Fatal Injuries (broken down by time period)
 
 #### This graph provides a more detailed view of the trend in total fatal injuries over time, broken down into three time periods.
 
-## Visualization 3: Event Date (2018-2022)
+#### Visualization 3: Event Date (2018-2022)
 
 #### This graph shows the trend of total fatal injuries in aircraft damage incidents from 2018 to 2022.
 
